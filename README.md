@@ -12,9 +12,11 @@ The main objective of this project is to identify which factors are most strongl
 job satisfaction and how these factors differ across departments and job roles.
 
 ## Data
-- **Dataset:** IBM HR Analytics Employee Attrition & Performance
-- **Observations:** 1,470 employees
+- **Dataset:** IBM HR Analytics Employee Attrition & Performance  
+- **Source:** Kaggle  
+- **Observations:** 1,470 employees  
 - **Type:** Employee-level HR data
+
 
 ### Key Variables
 - Age  
